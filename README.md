@@ -4,7 +4,7 @@
 
 ### На данный момент я знаком с
 
-PostgreSQL, Python для анализа данных (библиотека Pandas, PySpark), Google Data Studio, Tableau, KNIME, MongoDB.
+PostgreSQL, Python для анализа данных (библиотека Pandas, NumPy, PySpark), Google Data Studio, Tableau, KNIME, MongoDB.
 
 ### Чему я научился
 
