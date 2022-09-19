@@ -10,7 +10,7 @@ PostgreSQL, Python для анализа данных (библиотека Pand
 
 * Pandas и pySpark [Итоговая работа по модулю BIG DATA](https://github.com/MrKirnus/BIG-DATA)
 * SQL (PostgreSQL) [Итоговая работа SQL](https://github.com/MrKirnus/sql_final)
-* Python [Репозиторий с домашними заданиями](https://github.com/MrKirnus/Python)
+* Python, NumPy и Pandas [Репозиторий с домашними заданиями](https://github.com/MrKirnus/Python)
 
 
 
